@@ -1,0 +1,25 @@
+Project Name: Smart Parking Management System
+
+Student: Nursena Idrizi
+Student ID: 131666
+Email: ni131666@seeu.edu.mk
+Course: Software Engineering
+University: South East European University
+Year: 2026
+
+Description:
+A web-based application that allows drivers to locate and reserve 
+available parking spaces in real time, while admins manage slots 
+and monitor occupancy.
+
+Technologies Used:
+- Frontend: React.js, HTML5, CSS3, Bootstrap 5
+- Backend: Node.js, Express.js
+- Database: MySQL / PostgreSQL
+- Authentication: JWT, bcrypt
+- ORM: Sequelize
+- Testing: Jest, Supertest, Postman
+
+Note:
+Source code is not available for submission.
+Project deliverables include the full project report and presentation.
